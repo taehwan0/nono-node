@@ -1,0 +1,7 @@
+# DB Config
+# /src/config.js
+.DS_Store
+.vscode
+.idea
+/src/config.js
+node_modules
